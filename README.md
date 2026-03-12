@@ -18,7 +18,6 @@ conda create -n PureCLIP-Depth -y python=3.12
 conda activate PureCLIP-Depth
 
 pip install -r requirement.txt
-
 ```
 
 ## Download pre-trained weight
@@ -30,6 +29,13 @@ pip install -r requirement.txt
 ```bash
 python main_train_nyu.py
 ```
+## Citation
+Paper Coming Soon
+
+## License
+
+This repository is released under the [MIT License](LICENSE).
+
 
 ## References
 | Project | Link | Description |
