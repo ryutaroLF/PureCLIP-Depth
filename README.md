@@ -31,3 +31,8 @@ pip install -r requirement.txt
 python main_train_nyu.py
 ```
 
+## References
+| Project | Link | Description |
+| :--- | :--- | :--- |
+| CLIP | [openai/CLIP](https://github.com/openai/CLIP) | Official implementation of CLIP |
+| PyTorch | [pytorch/pytorch](https://github.com/pytorch/pytorch) | Tensors and Dynamic neural networks |
