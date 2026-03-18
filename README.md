@@ -11,7 +11,9 @@ Prediction on KITTI dataset
 ![](data/disp_kitti.png)
 
 Prediction on KITTI dataset (movie)
-<video src="https://github.com/ryutaroLF/PureCLIP-Depth/raw/main/data/KITTI.mp4" autoplay loop muted width="100%"></video>
+<video src="https://github.com/user-attachments/assets/86f13629-ed88-4b3a-9d2c-70e76301d965" autoplay loop muted width="100%"></video>
+
+
 
 # Getting Started
 ## Installation
