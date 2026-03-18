@@ -11,6 +11,7 @@ Prediction on KITTI dataset
 ![](data/disp_kitti.png)
 
 
+Prediction on KITTI dataset (movie)
 <video src="data/KITTI.mov" autoplay loop muted width="100%"></video>
 
 # Getting Started
