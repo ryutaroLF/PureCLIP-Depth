@@ -10,6 +10,9 @@ Prediction on NYU Depth V2 dataset
 Prediction on KITTI dataset
 ![](data/disp_kitti.png)
 
+
+<video src="data/KITTI.mov" autoplay loop muted width="100%"></video>
+
 # Getting Started
 ## Installation
 
@@ -24,6 +27,7 @@ pip install -r requirement.txt
 [Weight for KITTI dataset](https://drive.google.com/file/d/1BI61KmEu86lb-LG9-nJx6xyf6_10ZbNW/view?usp=sharing)
 
 [Weight for NYU Depth V2 dataset](https://drive.google.com/file/d/10ZtuYKioOgk5Y40zxRTj3RVEmKpLMMn-/view?usp=sharing)
+
 
 ## Train the model
 ```bash
