@@ -11,8 +11,7 @@ Prediction on KITTI dataset
 ![](data/disp_kitti.png)
 
 Prediction on KITTI dataset (movie)
-https://github.com/user-attachments/assets/7940b251-bdf5-4a57-aa10-fe5c6871fba7
-
+<video src="[https://github.com/user/repo/assets/...](https://github.com/user-attachments/assets/7940b251-bdf5-4a57-aa10-fe5c6871fba7" autoplay loop muted width="100%"></video>
 
 # Getting Started
 ## Installation
