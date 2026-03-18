@@ -10,9 +10,9 @@ Prediction on NYU Depth V2 dataset
 Prediction on KITTI dataset
 ![](data/disp_kitti.png)
 
-
 Prediction on KITTI dataset (movie)
-<video src="data/KITTI.mp4" autoplay loop muted width="100%"></video>
+https://github.com/user-attachments/assets/7940b251-bdf5-4a57-aa10-fe5c6871fba7
+
 
 # Getting Started
 ## Installation
