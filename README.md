@@ -12,7 +12,7 @@ Prediction on KITTI dataset
 
 
 Prediction on KITTI dataset (movie)
-<video src="data/KITTI.mov" autoplay loop muted width="100%"></video>
+<video src="data/KITTI.mp4" autoplay loop muted width="100%"></video>
 
 # Getting Started
 ## Installation
